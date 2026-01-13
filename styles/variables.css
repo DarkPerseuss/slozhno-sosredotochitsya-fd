@@ -2,3 +2,9 @@
   Переменные для вашего проекта
   и их переопределение под различные устройства
 */
+
+:root {
+  --bg-page: url('../images/cover-image-dark.png');
+  --header-min-height: 668px;
+  --accent-color: #FF0070;
+}
